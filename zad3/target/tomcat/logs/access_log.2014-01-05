@@ -1,0 +1,8 @@
+127.0.0.1 - - [05/Jan/2014:13:59:51 +0100] "GET /api/users HTTP/1.1" 200 153 http-bio-8080-exec-1 120
+127.0.0.1 - - [05/Jan/2014:14:02:00 +0100] "GET /api/users HTTP/1.1" 200 153 http-bio-8080-exec-3 4
+127.0.0.1 - - [05/Jan/2014:14:02:17 +0100] "POST /api/users HTTP/1.1" 200 70 http-bio-8080-exec-4 45
+127.0.0.1 - - [05/Jan/2014:14:02:48 +0100] "PUT /api/users HTTP/1.1" 405 1045 http-bio-8080-exec-5 6
+127.0.0.1 - - [05/Jan/2014:14:02:58 +0100] "PUT /api/users/1 HTTP/1.1" 200 66 http-bio-8080-exec-6 17
+127.0.0.1 - - [05/Jan/2014:14:03:15 +0100] "GET /api/users/1 HTTP/1.1" 200 78 http-bio-8080-exec-7 7
+127.0.0.1 - - [05/Jan/2014:14:03:36 +0100] "DELETE /api/users/1 HTTP/1.1" 200 66 http-bio-8080-exec-8 8
+127.0.0.1 - - [05/Jan/2014:14:03:55 +0100] "GET /api/users HTTP/1.1" 200 153 http-bio-8080-exec-9 6
